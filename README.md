@@ -1,9 +1,4 @@
-# curso javascript
+# Blackjack-vite
 
-Contenido:
+Contenido: carpeta para despliegue en github
 
-## carpetas principales
-
-1. Fundamentos
-2. programas node
-3. programas vite
